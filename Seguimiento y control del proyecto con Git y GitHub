@@ -39,3 +39,9 @@ Commit 7 – “Integración de nuevas funciones al proyecto”
 Descripción: Se incluye una nueva característica o ampliación del sistema.
 Actividad reflejada: Expansión del alcance y desarrollo incremental.
 Seguimiento en Git: Permite ver cómo crece el proyecto mediante pequeños pasos controlados.
+
+Commit 8 – “Optimización del código y mejora del rendimiento”
+
+Descripción: Se refactorizan funciones, se eliminan redundancias y se mejora la eficiencia del programa.
+Actividad reflejada: Optimización y buenas prácticas de programación.
+Seguimiento en Git: Muestra la evolución del código hacia versiones más limpias.
