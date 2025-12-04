@@ -33,3 +33,9 @@ Commit 6 – “Pruebas iniciales del sistema”
 Descripción: Se agregan scripts o archivos de prueba para comprobar el funcionamiento.
 Actividad reflejada: Etapa de pruebas y validación.
 Seguimiento en Git: Registra los casos de prueba aplicados y sus ajustes.
+
+Commit 7 – “Integración de nuevas funciones al proyecto”
+
+Descripción: Se incluye una nueva característica o ampliación del sistema.
+Actividad reflejada: Expansión del alcance y desarrollo incremental.
+Seguimiento en Git: Permite ver cómo crece el proyecto mediante pequeños pasos controlados.
