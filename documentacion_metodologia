@@ -1,0 +1,105 @@
+Documentación de Metodología Scrum – Proyecto: Escáner de Red
+1. Descripción general del proyecto
+El proyecto consiste en desarrollar un escáner de red capaz de identificar la dirección IP objetivo, obtener el nombre del host, analizar los puertos abiertos y registrar la fecha del análisis. Esta herramienta permitirá diagnosticar redes locales, validar conexiones y detectar posibles vulnerabilidades básicas.
+La metodología seleccionada para gestionar el desarrollo es Scrum, ya que permite organizar entregas rápidas, inspeccionar avances técnicos y adaptar el software conforme surjan nuevos requerimientos.
+
+2. Roles dentro del proyecto (Scrum)
+Product Owner
+Define los requisitos del escáner.
+Prioriza las funcionalidades en el Product Backlog.
+Asegura que el producto final cumpla con las necesidades del usuario.
+
+Scrum Master
+Guía el proceso Scrum.
+Ayuda a eliminar bloqueos.
+Garantiza que el equipo siga los principios ágiles.
+
+Development Team
+Desarrolla el código del escáner de red.
+Implementa mejoras técnicas.
+Realiza pruebas y genera entregables funcionales en cada Sprint.
+
+3. Entregables (artefactos Scrum)
+Product Backlog (lista inicial)
+Detector de IP objetivo.
+Obtención del nombre del host.
+Escaneo básico de puertos.
+Registro de fecha del análisis.
+Exportación del reporte (JSON/Texto).
+Interfaz de consola mejorada.
+Optimización de tiempos de escaneo.
+Validación de errores y manejo de excepciones.
+
+Sprint Backlog
+Se genera para cada Sprint con las tareas seleccionadas para la entrega.
+
+Incremento
+Versión funcional del escáner al finalizar cada Sprint.
+
+4. Fases del proyecto según Scrum (Sprints)
+El proyecto se dividirá en 4 Sprints, cada uno con una duración estimada de 1 semana.
+
+Sprint 1 – Configuración inicial y obtención de IP
+Duración: 1 semana
+Objetivos:
+Crear estructura base del proyecto.
+Implementar detección de dirección IP.
+Validar funcionamiento desde consola.
+Entregable:
+Versión inicial que identifica IP objetivo.
+
+Sprint 2 – Información del host
+Duración: 1 semana
+Objetivos:
+Incorporar resolución del nombre del host.
+Manejar errores en consultas DNS.
+Integrar esta información al resultado del escaneo.
+Entregable:
+Escáner que devuelve IP + host correctamente.
+
+Sprint 3 – Escaneo de puertos
+Duración: 1 semana
+Objetivos:
+Implementar escaneo de puertos comunes.
+Añadir parámetros básicos (rango o lista de puertos).
+Mejorar la velocidad del análisis.
+Entregable:
+Escáner que detecta puertos abiertos.
+
+Sprint 4 – Registro y optimización
+Duración: 1 semana
+Objetivos:
+Registrar fecha y hora del escaneo.
+Organizar los resultados en formato JSON o archivo .txt.
+Hacer una breve optimización del tiempo de ejecución.
+Pruebas finales y corrección de errores.
+
+Entregable:
+Escáner completo que genera un reporte legible y funcional.
+
+5. Rituales Scrum aplicados
+Daily Scrum (reunión diaria)
+Revisión rápida de:
+Qué se hizo ayer
+Qué se hará hoy
+Qué bloqueos existen
+
+Sprint Planning
+Definición de tareas de cada Sprint según prioridades del Product Owner.
+
+Sprint Review
+Demostración del funcionamiento del escáner al término de cada Sprint.
+
+Sprint Retrospective
+Evaluación del proceso de trabajo:
+Qué funcionó bien
+Qué mejorar
+Qué acciones aplicar al siguiente Sprint
+
+6. Tiempos estimados del proyecto
+Sprint 1: 1 semana
+Sprint 2: 1 semana
+Sprint 3: 1 semana
+Sprint 4: 1 semana
+
+Duración total estimada: 4 semanas

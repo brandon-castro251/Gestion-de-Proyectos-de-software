@@ -1,0 +1,95 @@
+Modelo Híbrido PMBOK + Espiral para el Proyecto: Escáner de Red
+1. Introducción
+El proyecto consiste en desarrollar un escáner de red capaz de identificar la IP objetivo, obtener el nombre del host, analizar los puertos abiertos y registrar la fecha del análisis. Para gestionar su desarrollo se propone un modelo híbrido basado en PMBOK + Espiral, combinando la estructura formal de PMBOK con el enfoque iterativo, adaptable y orientado al riesgo del modelo en Espiral.
+Este enfoque híbrido permitirá mantener control documental y claridad en la dirección del proyecto, al mismo tiempo que asegura revisiones constantes, reducción del riesgo y mejoras por ciclos.
+
+2. Justificación de la combinación PMBOK + Espiral
+Por qué PMBOK
+PMBOK aporta:
+Procesos bien definidos para iniciar, planificar, ejecutar, monitorear y cerrar.
+Documentación formal y controlada.
+Gestión estructurada del alcance, tiempo, costo y calidad.
+Roles claros y mecanismos para toma de decisiones.
+Esto es útil en un proyecto técnico como un escáner de red, donde se requieren definiciones claras del alcance, riesgos y requerimientos funcionales.
+
+Por qué Espiral
+El modelo en Espiral aporta:
+Desarrollo iterativo dividido en ciclos.
+Énfasis en identificación y reducción de riesgos.
+Validación continua del producto.
+Mayor flexibilidad para adaptar funcionalidades técnicas.
+En un escáner de red, los riesgos técnicos (como fallas en el escaneo, lentitud, bloqueos o detección incorrecta de puertos) son altos y requieren pruebas frecuentes.
+
+Por qué funcionan bien juntas
+Ambas metodologías cubren áreas que la otra no:
+PMBOK ofrece orden, documentación y control.
+Espiral ofrece iteración, validación temprana y gestión de riesgos.
+La combinación garantiza un desarrollo formal pero flexible, ideal para proyectos técnicos y evolutivos.
+
+3. Aportación de cada metodología al modelo híbrido
+Aportaciones de PMBOK:
+Acta de constitución del proyecto.
+Plan de gestión (alcance, tiempo, riesgos, comunicación).
+Control de cambios y documentación centralizada.
+Roles claros y trazabilidad total.
+
+Aportaciones del Modelo Espiral:
+Desarrollo por ciclos iterativos.
+Identificación continua de riesgos.
+Prototipos y validaciones frecuentes.
+Retroalimentación constante para ajustar el producto.
+
+4. Aplicación del modelo híbrido al proyecto
+El trabajo del escáner de red seguirá la estructura PMBOK, pero dentro de la fase de ejecución se trabajará en cuatro ciclos iterativos propios del modelo en Espiral.
+
+Fase 1 – Inicio (PMBOK)
+Crear acta del proyecto.
+Definir el objetivo: escáner que obtenga IP, host, puertos y fecha.
+Identificar stakeholders: usuario final, desarrollador, evaluador.
+
+Fase 2 – Planificación (PMBOK)
+Definir alcance del producto.
+Establecer requisitos funcionales y no funcionales.
+Crear cronograma general.
+Establecer matriz de riesgos inicial.
+Plan de calidad y pruebas.
+
+Fase 3 – Ejecución mediante ciclos de Espiral
+Se usarán 4 ciclos, cada uno con las fases clásicas del Espiral:
+
+Ciclo 1 – Análisis y prototipo inicial del escáner
+Fases del Espiral aplicadas:
+Identificación de riesgos: fallas en obtención de IP, errores DNS.
+Desarrollo del prototipo 1: lectura de IP desde consola.
+Pruebas iniciales.
+Revisión y planeación del siguiente ciclo.
+
+Ciclo 2 – Obtención del host y validación técnica
+Riesgos: lentitud en consultas, fallos de resolución.
+Desarrollo del prototipo 2: obtener nombre del host.
+Pruebas de validación.
+Ajustes al diseño.
+
+Ciclo 3 – Escaneo de puertos
+Riesgos: bloqueo del firewall, tiempo de respuesta muy alto.
+Desarrollo del prototipo 3: escaneo de puertos comunes.
+Pruebas sobre distintos rangos.
+Correcciones.
+
+Ciclo 4 – Registro de fecha, optimización y cierre
+Riesgos: manejo deficiente del almacenamiento.
+Desarrollo del prototipo final: estructura del reporte completo.
+Pruebas finales y validación.
+Evaluación y preparación del cierre del proyecto.
+
+Fase 4 – Monitoreo y control (PMBOK)
+Seguimiento de avance por entregables.
+Control de calidad del código.
+Registro y análisis de riesgos por ciclo.
+Control de cambios en requisitos.
+
+Fase 5 – Cierre (PMBOK)
+Validación final del escáner.
+Documentación técnica y funcional.
+Entrega del producto final.
+Lecciones aprendidas.
