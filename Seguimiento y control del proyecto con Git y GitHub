@@ -27,3 +27,9 @@ Commit 5 – “Agregado de documentación interna”
 Descripción: Se añaden comentarios, notas técnicas o archivos explicativos para facilitar la comprensión del código.
 Actividad reflejada: Documentación del progreso técnico.
 Seguimiento en Git: Evidencia cuándo y cómo se fortaleció la claridad del proyecto.
+
+Commit 6 – “Pruebas iniciales del sistema”
+
+Descripción: Se agregan scripts o archivos de prueba para comprobar el funcionamiento.
+Actividad reflejada: Etapa de pruebas y validación.
+Seguimiento en Git: Registra los casos de prueba aplicados y sus ajustes.
