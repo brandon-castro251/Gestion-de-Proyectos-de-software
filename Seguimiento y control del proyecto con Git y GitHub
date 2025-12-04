@@ -21,3 +21,9 @@ Commit 4 – “Corrección de errores y mejoras al módulo”
 Descripción: Se ajusta el código del módulo principal para corregir fallos detectados en pruebas iniciales.
 Actividad reflejada: Depuración y mejora continua del producto.
 Seguimiento en Git: Los diffs permiten ver qué se corrigió, cuándo y por qué.
+
+Commit 5 – “Agregado de documentación interna”
+
+Descripción: Se añaden comentarios, notas técnicas o archivos explicativos para facilitar la comprensión del código.
+Actividad reflejada: Documentación del progreso técnico.
+Seguimiento en Git: Evidencia cuándo y cómo se fortaleció la claridad del proyecto.
