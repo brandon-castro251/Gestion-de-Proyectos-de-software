@@ -15,3 +15,9 @@ Commit 3 – “Primer módulo funcional agregado”
 Descripción: Se añade el primer componente esencial del proyecto (ejemplo: módulo de escaneo básico, función inicial o interfaz principal).
 Actividad reflejada: Primera etapa de implementación.
 Seguimiento en Git: Muestra el avance técnico y el inicio del desarrollo.
+
+Commit 4 – “Corrección de errores y mejoras al módulo”
+
+Descripción: Se ajusta el código del módulo principal para corregir fallos detectados en pruebas iniciales.
+Actividad reflejada: Depuración y mejora continua del producto.
+Seguimiento en Git: Los diffs permiten ver qué se corrigió, cuándo y por qué.
