@@ -9,3 +9,9 @@ Commit 2 – “Estructura base del proyecto”
 Descripción: Se crean carpetas para el código, documentación y pruebas.
 Actividad reflejada: Organización inicial del proyecto y planificación del trabajo.
 Seguimiento en Git: Permite identificar cómo se estableció el orden y la estructura desde el principio.
+
+Commit 3 – “Primer módulo funcional agregado”
+
+Descripción: Se añade el primer componente esencial del proyecto (ejemplo: módulo de escaneo básico, función inicial o interfaz principal).
+Actividad reflejada: Primera etapa de implementación.
+Seguimiento en Git: Muestra el avance técnico y el inicio del desarrollo.
