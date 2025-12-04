@@ -45,3 +45,9 @@ Commit 8 – “Optimización del código y mejora del rendimiento”
 Descripción: Se refactorizan funciones, se eliminan redundancias y se mejora la eficiencia del programa.
 Actividad reflejada: Optimización y buenas prácticas de programación.
 Seguimiento en Git: Muestra la evolución del código hacia versiones más limpias.
+
+Commit 9 – “Actualización del README con los avances finales”
+
+Descripción: Se agregan detalles sobre el funcionamiento actual del proyecto y notas importantes.
+Actividad reflejada: Cierre parcial y registro del estado final.
+Seguimiento en Git: Reúne toda la información para evaluar el progreso global.
