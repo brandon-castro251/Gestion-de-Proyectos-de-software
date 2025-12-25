@@ -1,0 +1,53 @@
+Commit 1 – “Inicialización del repositorio y README”
+
+Descripción: Se crea el repositorio remoto y se agrega un archivo README explicando el propósito del proyecto.
+Actividad reflejada: Inicio formal del proyecto y definición de su objetivo.
+Seguimiento en Git: El commit muestra el punto exacto en el que el proyecto comenzó.
+
+Commit 2 – “Estructura base del proyecto”
+
+Descripción: Se crean carpetas para el código, documentación y pruebas.
+Actividad reflejada: Organización inicial del proyecto y planificación del trabajo.
+Seguimiento en Git: Permite identificar cómo se estableció el orden y la estructura desde el principio.
+
+Commit 3 – “Primer módulo funcional agregado”
+
+Descripción: Se añade el primer componente esencial del proyecto (ejemplo: módulo de escaneo básico, función inicial o interfaz principal).
+Actividad reflejada: Primera etapa de implementación.
+Seguimiento en Git: Muestra el avance técnico y el inicio del desarrollo.
+
+Commit 4 – “Corrección de errores y mejoras al módulo”
+
+Descripción: Se ajusta el código del módulo principal para corregir fallos detectados en pruebas iniciales.
+Actividad reflejada: Depuración y mejora continua del producto.
+Seguimiento en Git: Los diffs permiten ver qué se corrigió, cuándo y por qué.
+
+Commit 5 – “Agregado de documentación interna”
+
+Descripción: Se añaden comentarios, notas técnicas o archivos explicativos para facilitar la comprensión del código.
+Actividad reflejada: Documentación del progreso técnico.
+Seguimiento en Git: Evidencia cuándo y cómo se fortaleció la claridad del proyecto.
+
+Commit 6 – “Pruebas iniciales del sistema”
+
+Descripción: Se agregan scripts o archivos de prueba para comprobar el funcionamiento.
+Actividad reflejada: Etapa de pruebas y validación.
+Seguimiento en Git: Registra los casos de prueba aplicados y sus ajustes.
+
+Commit 7 – “Integración de nuevas funciones al proyecto”
+
+Descripción: Se incluye una nueva característica o ampliación del sistema.
+Actividad reflejada: Expansión del alcance y desarrollo incremental.
+Seguimiento en Git: Permite ver cómo crece el proyecto mediante pequeños pasos controlados.
+
+Commit 8 – “Optimización del código y mejora del rendimiento”
+
+Descripción: Se refactorizan funciones, se eliminan redundancias y se mejora la eficiencia del programa.
+Actividad reflejada: Optimización y buenas prácticas de programación.
+Seguimiento en Git: Muestra la evolución del código hacia versiones más limpias.
+
+Commit 9 – “Actualización del README con los avances finales”
+
+Descripción: Se agregan detalles sobre el funcionamiento actual del proyecto y notas importantes.
+Actividad reflejada: Cierre parcial y registro del estado final.
+Seguimiento en Git: Reúne toda la información para evaluar el progreso global.
